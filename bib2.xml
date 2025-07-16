@@ -1,0 +1,2656 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<b:Sources xmlns:b="http://schemas.openxmlformats.org/officeDocument/2006/bibliography" xmlns="http://schemas.openxmlformats.org/officeDocument/2006/bibliography" SelectedStyle="">
+    <b:Source>
+        <b:Year>2023</b:Year>
+        <b:BIBTEX_Entry>misc</b:BIBTEX_Entry>
+        <b:SourceType>Misc</b:SourceType>
+        <b:Title>Mehr Recherche im Rundfunk – jetzt!</b:Title>
+        <b:Tag>Drepper2023</b:Tag>
+        <b:BIBTEX_HowPublished>\url{https://www.journalist.de/meinung/meinungen-detail/mehr-recherche-im-rundfunk-jetzt/}</b:BIBTEX_HowPublished>
+        <b:URL>https://www.journalist.de/meinung/meinungen-detail/mehr-recherche-im-rundfunk-jetzt/</b:URL>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Drepper</b:Last>
+                        <b:First>Daniel</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:PublicationTitle>Mehr Recherche im Rundfunk – jetzt!</b:PublicationTitle>
+    </b:Source>
+    <b:Source>
+        <b:Year>2024</b:Year>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Die Studie „Journalismus &amp; Demokratie“</b:Title>
+        <b:Tag>Steinbrecher2024</b:Tag>
+        <b:URL>https://www.journalismusstudie.fb15.tu-dortmund.de/die-studie-journalismus-demokratie/</b:URL>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Prof. Dr. Michael Steinbrecher</b:Last>
+                        <b:Middle>Dr. Günther Rager</b:Middle>
+                        <b:First>Prof.</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+    </b:Source>
+    <b:Source>
+        <b:Year>2025</b:Year>
+        <b:BIBTEX_Entry>misc</b:BIBTEX_Entry>
+        <b:SourceType>Misc</b:SourceType>
+        <b:Title>Gaza und die Medien: Versagt der Journalismus? StudioM</b:Title>
+        <b:Tag>Monitor2025</b:Tag>
+        <b:BIBTEX_HowPublished>\url{https://www.youtube.com/watch?v=p3iYofgXpi4}</b:BIBTEX_HowPublished>
+        <b:URL>https://www.youtube.com/watch?v=p3iYofgXpi4</b:URL>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Monitor</b:Last>
+                        <b:Middle>D. R.</b:Middle>
+                        <b:First>W.</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:PublicationTitle>Gaza und die Medien: Versagt der Journalismus? StudioM</b:PublicationTitle>
+    </b:Source>
+    <b:Source>
+        <b:Year>2016</b:Year>
+        <b:Volume>13</b:Volume>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Starke Bremsklötze: Der öffentlich-rechtliche Rundfunk in Deutschland im internationalen Benchmark-Vergleich</b:Title>
+        <b:Publisher>Verlag C.H.Beck oHG</b:Publisher>
+        <b:Tag>Sehl2016</b:Tag>
+        <b:DOI>10.15358/1613-0669-2016-4-38</b:DOI>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Sehl</b:Last>
+                        <b:First>Annika</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>38–41</b:Pages>
+        <b:JournalName>MedienWirtschaft</b:JournalName>
+        <b:Number>4</b:Number>
+        <b:StandardNumber> ISSN: 1613-0669</b:StandardNumber>
+    </b:Source>
+    <b:Source>
+        <b:BIBTEX_Entry>misc</b:BIBTEX_Entry>
+        <b:SourceType>Misc</b:SourceType>
+        <b:Title>Community Notes Source code</b:Title>
+        <b:Tag>twitter</b:Tag>
+        <b:BIBTEX_HowPublished>\url{https://github.com/twitter/communitynotes}</b:BIBTEX_HowPublished>
+        <b:URL>https://github.com/twitter/communitynotes</b:URL>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>twitter</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:PublicationTitle>Community Notes Source code</b:PublicationTitle>
+    </b:Source>
+    <b:Source>
+        <b:Year>2024</b:Year>
+        <b:Volume>331</b:Volume>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Characteristics of X (Formerly Twitter) Community Notes Addressing COVID-19 Vaccine Misinformation</b:Title>
+        <b:Publisher>American Medical Association (AMA)</b:Publisher>
+        <b:Tag>Allen2024</b:Tag>
+        <b:DOI>10.1001/jama.2024.4800</b:DOI>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Allen</b:Last>
+                        <b:Middle>R.</b:Middle>
+                        <b:First>Matthew</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Desai</b:Last>
+                        <b:First>Nimit</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Namazi</b:Last>
+                        <b:First>Aiden</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Leas</b:Last>
+                        <b:First>Eric</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Dredze</b:Last>
+                        <b:First>Mark</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Smith</b:Last>
+                        <b:Middle>M.</b:Middle>
+                        <b:First>Davey</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Ayers</b:Last>
+                        <b:Middle>W.</b:Middle>
+                        <b:First>John</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>1670</b:Pages>
+        <b:Month>May</b:Month>
+        <b:JournalName>JAMA</b:JournalName>
+        <b:Number>19</b:Number>
+        <b:StandardNumber> ISSN: 0098-7484</b:StandardNumber>
+    </b:Source>
+    <b:Source>
+        <b:BIBTEX_Entry>inproceedings</b:BIBTEX_Entry>
+        <b:SourceType>ConferenceProceedings</b:SourceType>
+        <b:Title>Forschung und Praxis an der FHWien der WKW</b:Title>
+        <b:Tag>Gonser</b:Tag>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Gonser</b:Last>
+                        <b:First>Nicole</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Hrsg.</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+    </b:Source>
+    <b:Source>
+        <b:Year>2015</b:Year>
+        <b:BIBTEX_Series>C.H. Beck Paperback</b:BIBTEX_Series>
+        <b:BIBTEX_Entry>book</b:BIBTEX_Entry>
+        <b:Comments>Literaturangaben</b:Comments>
+        <b:SourceType>Book</b:SourceType>
+        <b:Title>Kleines Lexikon der Politik</b:Title>
+        <b:Publisher>C.H. Beck</b:Publisher>
+        <b:Tag>Nohlen2015</b:Tag>
+        <b:Edition>Originalausgabe, 6., überarbeitete und erweiterte Auflage</b:Edition>
+        <b:Author>
+            <b:Editor>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Nohlen</b:Last>
+                        <b:First>Dieter</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Grotz</b:Last>
+                        <b:First>Florian</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Editor>
+        </b:Author>
+        <b:Number>1418</b:Number>
+        <b:StandardNumber> ISBN: 3406681069</b:StandardNumber>
+        <b:City>München</b:City>
+    </b:Source>
+    <b:Source>
+        <b:Year>2016</b:Year>
+        <b:BIBTEX_Entry>misc</b:BIBTEX_Entry>
+        <b:SourceType>Misc</b:SourceType>
+        <b:Title>Unabhängigkeit und Staatsferne – nur ein Mythos?</b:Title>
+        <b:Tag>Thomass2016</b:Tag>
+        <b:BIBTEX_HowPublished>\url{https://www.bpb.de/themen/medien-journalismus/medienpolitik/172237/unabhaengigkeit-und-staatsferne-nur-ein-mythos/}</b:BIBTEX_HowPublished>
+        <b:URL>https://www.bpb.de/themen/medien-journalismus/medienpolitik/172237/unabhaengigkeit-und-staatsferne-nur-ein-mythos/</b:URL>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Barbara Thomaß</b:Last>
+                        <b:Middle>Radoslavov</b:Middle>
+                        <b:First>Stoyan</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Month>December</b:Month>
+        <b:PublicationTitle>Unabhängigkeit und Staatsferne – nur ein Mythos?</b:PublicationTitle>
+    </b:Source>
+    <b:Source>
+        <b:Year>2023</b:Year>
+        <b:Volume>20</b:Volume>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Ein Vergleich der Social Media-Strategien öffentlich-rechtlicher und privater Nachrichtenorganisationen</b:Title>
+        <b:Publisher>Verlag C.H.Beck oHG</b:Publisher>
+        <b:Tag>Sehl2023</b:Tag>
+        <b:DOI>10.15358/1613-0669-2023-1-12</b:DOI>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Sehl</b:Last>
+                        <b:First>Annika</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>12–15</b:Pages>
+        <b:JournalName>MedienWirtschaft</b:JournalName>
+        <b:Number>1</b:Number>
+        <b:StandardNumber> ISSN: 1613-0669</b:StandardNumber>
+    </b:Source>
+    <b:Source>
+        <b:Year>2025</b:Year>
+        <b:BIBTEX_Entry>misc</b:BIBTEX_Entry>
+        <b:SourceType>Misc</b:SourceType>
+        <b:Tag>Lang2025</b:Tag>
+        <b:BIBTEX_HowPublished>\url{https://www.youtube.com/watch?v=FNheTzqlqp4}</b:BIBTEX_HowPublished>
+        <b:URL>https://www.youtube.com/watch?v=FNheTzqlqp4</b:URL>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Lang</b:Last>
+                        <b:First>RIcarda</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+    </b:Source>
+    <b:Source>
+        <b:Year>2025</b:Year>
+        <b:BIBTEX_Entry>misc</b:BIBTEX_Entry>
+        <b:Comments>Meinungsbeitrag</b:Comments>
+        <b:SourceType>Misc</b:SourceType>
+        <b:Title>Herzlichen Dank für alles, Jan Böhmermann!</b:Title>
+        <b:Tag>Poschardt2025</b:Tag>
+        <b:BIBTEX_HowPublished>\url{https://www.welt.de/debatte/plus256103476/OERR-Kritik-Herzlichen-Dank-fuer-alles-Jan-Boehmermann.html}</b:BIBTEX_HowPublished>
+        <b:URL>https://www.welt.de/debatte/plus256103476/OERR-Kritik-Herzlichen-Dank-fuer-alles-Jan-Boehmermann.html</b:URL>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Poschardt</b:Last>
+                        <b:First>Ulf</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Month>May</b:Month>
+        <b:PublicationTitle>Herzlichen Dank für alles, Jan Böhmermann!</b:PublicationTitle>
+    </b:Source>
+    <b:Source>
+        <b:BIBTEX_Entry>misc</b:BIBTEX_Entry>
+        <b:SourceType>Misc</b:SourceType>
+        <b:Title>Vielfalt in Rundfunkräten</b:Title>
+        <b:Tag>mediendiversitaet.de</b:Tag>
+        <b:BIBTEX_HowPublished>\url{https://mediendiversitaet.de/vielfalt-in-rundfunkraeten/die-einzelnen-rundfunkraete-im-ueberblick#rundfunkrat-des-bayerischen-rundfunk}</b:BIBTEX_HowPublished>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>mediendiversitaet.de</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:PublicationTitle>Vielfalt in Rundfunkräten</b:PublicationTitle>
+    </b:Source>
+    <b:Source>
+        <b:Year>2023</b:Year>
+        <b:BIBTEX_Entry>misc</b:BIBTEX_Entry>
+        <b:SourceType>Misc</b:SourceType>
+        <b:Title>Das ABC des deutschen Mediensystems</b:Title>
+        <b:Tag>Steinlein2023</b:Tag>
+        <b:BIBTEX_HowPublished>\url{https://www.deutschland.de/de/topic/kultur/pressefreiheit-und-medien-in-deutschland-im-ueberblick}</b:BIBTEX_HowPublished>
+        <b:URL>https://www.deutschland.de/de/topic/kultur/pressefreiheit-und-medien-in-deutschland-im-ueberblick</b:URL>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Steinlein</b:Last>
+                        <b:First>Eva</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Month>April</b:Month>
+        <b:PublicationTitle>Das ABC des deutschen Mediensystems</b:PublicationTitle>
+    </b:Source>
+    <b:Source>
+        <b:Year>2024</b:Year>
+        <b:Volume>39</b:Volume>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Public service media as pivotal in combating misinformation and disinformation: prerequisites and approaches</b:Title>
+        <b:Publisher>SAGE Publications</b:Publisher>
+        <b:Tag>Sehl2024a</b:Tag>
+        <b:DOI>10.1177/02673231241294185</b:DOI>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Sehl</b:Last>
+                        <b:First>Annika</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>582–594</b:Pages>
+        <b:Month>November</b:Month>
+        <b:JournalName>European Journal of Communication</b:JournalName>
+        <b:Number>6</b:Number>
+        <b:StandardNumber> ISSN: 1460-3705</b:StandardNumber>
+    </b:Source>
+    <b:Source>
+        <b:Year>2022</b:Year>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Journalismus in sozialen Netzwerken - ARD und ZDF im Bann der Algorithmen?</b:Title>
+        <b:Tag>Eichler2022</b:Tag>
+        <b:URL>https://www.otto-brenner-stiftung.de/fileadmin/user_data/stiftung/02_Wissenschaftsportal/03_Publikationen/AH110_OERM_Soziale_Netzwerke.pdf</b:URL>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Eichler</b:Last>
+                        <b:First>Henning</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:StandardNumber> ISSN: 2365-2314</b:StandardNumber>
+    </b:Source>
+    <b:Source>
+        <b:Year>2022</b:Year>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Bridging-Based Ranking</b:Title>
+        <b:Tag>Ovadya2022</b:Tag>
+        <b:URL>https://www.belfercenter.org/sites/default/files/pantheon_files/files/publication/TAPP-Aviv_BridgingBasedRanking_FINAL_220518_0.pdf</b:URL>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Ovadya</b:Last>
+                        <b:First>Aviv</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+    </b:Source>
+    <b:Source>
+        <b:BIBTEX_Entry>misc</b:BIBTEX_Entry>
+        <b:SourceType>Misc</b:SourceType>
+        <b:Title>Sendeplatzprofile und Minutenpreise im Ersten</b:Title>
+        <b:Tag>ARDa</b:Tag>
+        <b:BIBTEX_HowPublished>\url{https://www.daserste.de/specials/ueber-uns/ueber-uns-sendeplatzprofile102.html}</b:BIBTEX_HowPublished>
+        <b:URL>https://www.daserste.de/specials/ueber-uns/ueber-uns-sendeplatzprofile102.html</b:URL>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>ARD</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:PublicationTitle>Sendeplatzprofile und Minutenpreise im Ersten</b:PublicationTitle>
+    </b:Source>
+    <b:Source>
+        <b:Year>2016</b:Year>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Meinungsbildung und Kontrolle der Medien</b:Title>
+        <b:Tag>Hasebrink2016</b:Tag>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Hasebrink</b:Last>
+                        <b:First>Uwe</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+    </b:Source>
+    <b:Source>
+        <b:Year>2020</b:Year>
+        <b:Volume>100</b:Volume>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Rundfunkbeitrag: Intendanten, beschränkt euch!</b:Title>
+        <b:Publisher>Walter de Gruyter GmbH</b:Publisher>
+        <b:Tag>Leinker2020</b:Tag>
+        <b:DOI>10.1007/s10273-020-2591-9</b:DOI>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Leinker</b:Last>
+                        <b:First>Timm</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>154–154</b:Pages>
+        <b:Month>March</b:Month>
+        <b:JournalName>Wirtschaftsdienst</b:JournalName>
+        <b:Number>3</b:Number>
+        <b:StandardNumber> ISSN: 1613-978X</b:StandardNumber>
+    </b:Source>
+    <b:Source>
+        <b:Year>2024</b:Year>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Öffentlich-rechtlicher (G)rundfunk?</b:Title>
+        <b:Tag>Bovermann2024</b:Tag>
+        <b:Publisher>Front Matter</b:Publisher>
+        <b:DOI>10.59704/98f2f780540f5e17</b:DOI>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Bovermann</b:Last>
+                        <b:First>Marc</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Stowasser</b:Last>
+                        <b:First>Samuel</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Month>June</b:Month>
+    </b:Source>
+    <b:Source>
+        <b:Year>2018</b:Year>
+        <b:BIBTEX_Entry>book</b:BIBTEX_Entry>
+        <b:SourceType>Book</b:SourceType>
+        <b:Title>Das Mediensystem Deutschlands</b:Title>
+        <b:Tag>Beck2018</b:Tag>
+        <b:Publisher>Springer Fachmedien Wiesbaden</b:Publisher>
+        <b:DOI>10.1007/978-3-658-11779-5</b:DOI>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Beck</b:Last>
+                        <b:First>Klaus</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:StandardNumber> ISBN: 9783658117795</b:StandardNumber>
+    </b:Source>
+    <b:Source>
+        <b:Year>2023</b:Year>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Medienvertrauen in Deutschland</b:Title>
+        <b:Tag>Viehmann2023</b:Tag>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Viehmann</b:Last>
+                        <b:Middle>Jackob / Tanjev Schultz / Ilka Jakobs /Oliver Quiring / Christian Schemer / Marc Ziegele /Christina</b:Middle>
+                        <b:First>Nikolaus</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:StandardNumber> ISSN: 978-3-7425-0951-2</b:StandardNumber>
+    </b:Source>
+    <b:Source>
+        <b:Year>2024</b:Year>
+        <b:Volume>57</b:Volume>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Integration durch Repräsentation? Die Rolle des öffentlich-rechtlichen Rundfunks für den gesellschaftlichen Zusammenhalt</b:Title>
+        <b:Publisher>Nomos Verlag</b:Publisher>
+        <b:Tag>Stegmann2024</b:Tag>
+        <b:DOI>10.5771/0010-3497-2024-2-144</b:DOI>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Stegmann</b:Last>
+                        <b:First>Daniel</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Stark</b:Last>
+                        <b:First>Birgit</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>144–158</b:Pages>
+        <b:JournalName>Communicatio Socialis</b:JournalName>
+        <b:Number>2</b:Number>
+        <b:StandardNumber> ISSN: 0010-3497</b:StandardNumber>
+    </b:Source>
+    <b:Source>
+        <b:Year>2009</b:Year>
+        <b:BIBTEX_Entry>booklet</b:BIBTEX_Entry>
+        <b:SourceType>BookSection</b:SourceType>
+        <b:Title>Editorial in "Aus Politik und Zeitgeschichte-Öffentlich-rechtlicher Rundfunk "</b:Title>
+        <b:Tag>Piepenbrink2009</b:Tag>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Piepenbrink</b:Last>
+                        <b:First>Johannes</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Month>February</b:Month>
+    </b:Source>
+    <b:Source>
+        <b:Year>2019</b:Year>
+        <b:BIBTEX_Entry>misc</b:BIBTEX_Entry>
+        <b:SourceType>Misc</b:SourceType>
+        <b:Title>Definition: Was ist "Kommission zur Ermittlung des Finanzbedarfs der Rundfunkanstalten (KEF)"?</b:Title>
+        <b:Tag>Sjurts2019</b:Tag>
+        <b:BIBTEX_HowPublished>\url{https://wirtschaftslexikon.gabler.de/definition/kommission-zur-ermittlung-des-finanzbedarfs-der-rundfunkanstalten-kef-52644/version-275762}</b:BIBTEX_HowPublished>
+        <b:URL>https://wirtschaftslexikon.gabler.de/definition/kommission-zur-ermittlung-des-finanzbedarfs-der-rundfunkanstalten-kef-52644/version-275762</b:URL>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Sjurts</b:Last>
+                        <b:Middle>Dr. Insa</b:Middle>
+                        <b:First>Prof.</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Month>February</b:Month>
+        <b:PublicationTitle>Definition: Was ist "Kommission zur Ermittlung des Finanzbedarfs der Rundfunkanstalten (KEF)"?</b:PublicationTitle>
+    </b:Source>
+    <b:Source>
+        <b:Year>2024</b:Year>
+        <b:Volume>8</b:Volume>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Did the Roll-Out of Community Notes Reduce Engagement With Misinformation on X/Twitter?</b:Title>
+        <b:Publisher>Association for Computing Machinery (ACM)</b:Publisher>
+        <b:Tag>Chuai2024</b:Tag>
+        <b:DOI>10.1145/3686967</b:DOI>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Chuai</b:Last>
+                        <b:First>Yuwei</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Tian</b:Last>
+                        <b:First>Haoye</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Pröllochs</b:Last>
+                        <b:First>Nicolas</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Lenzini</b:Last>
+                        <b:First>Gabriele</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>1–52</b:Pages>
+        <b:Month>November</b:Month>
+        <b:JournalName>Proceedings of the ACM on Human-Computer Interaction</b:JournalName>
+        <b:Number>CSCW2</b:Number>
+        <b:StandardNumber> ISSN: 2573-0142</b:StandardNumber>
+    </b:Source>
+    <b:Source>
+        <b:Year>2025</b:Year>
+        <b:BIBTEX_Entry>misc</b:BIBTEX_Entry>
+        <b:Comments>Accessed: 12.05.2025</b:Comments>
+        <b:SourceType>Misc</b:SourceType>
+        <b:Title>ZDF-Fernsehrat Anwalt des Publikums</b:Title>
+        <b:Tag>ZDF2025a</b:Tag>
+        <b:BIBTEX_HowPublished>\url{https://www.zdf.de/unternehmen/organisation/gremien/fernsehrat/uebersicht-fernsehrat-102.html}</b:BIBTEX_HowPublished>
+        <b:URL>https://www.zdf.de/unternehmen/organisation/gremien/fernsehrat/uebersicht-fernsehrat-102.html</b:URL>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>ZDF</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:PublicationTitle>ZDF-Fernsehrat Anwalt des Publikums</b:PublicationTitle>
+    </b:Source>
+    <b:Source>
+        <b:Year>2024</b:Year>
+        <b:BIBTEX_Entry>misc</b:BIBTEX_Entry>
+        <b:SourceType>Misc</b:SourceType>
+        <b:Title>Wie wahrscheinlich ist eine Erhöhung des Rundfunkbeitrags?</b:Title>
+        <b:Tag>Deutschlandfunk2024</b:Tag>
+        <b:BIBTEX_HowPublished>\url{https://www.deutschlandfunk.de/rundfunkbeitrag-kef-empfiehlt-erhoehung-100.html}</b:BIBTEX_HowPublished>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Deutschlandfunk</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:PublicationTitle>Wie wahrscheinlich ist eine Erhöhung des Rundfunkbeitrags?</b:PublicationTitle>
+    </b:Source>
+    <b:Source>
+        <b:Year>2021</b:Year>
+        <b:BIBTEX_Entry>misc</b:BIBTEX_Entry>
+        <b:SourceType>Misc</b:SourceType>
+        <b:Title>Umbaupläne fürs ARD-Programm: Die DNA des Ersten</b:Title>
+        <b:Tag>Ehrenberg2021</b:Tag>
+        <b:BIBTEX_HowPublished>\url{https://www.tagesspiegel.de/gesellschaft/medien/die-dna-des-ersten-5112736.html}</b:BIBTEX_HowPublished>
+        <b:URL>https://www.tagesspiegel.de/gesellschaft/medien/die-dna-des-ersten-5112736.html</b:URL>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Ehrenberg</b:Last>
+                        <b:First>Markus</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:PublicationTitle>Umbaupläne fürs ARD-Programm: Die DNA des Ersten</b:PublicationTitle>
+    </b:Source>
+    <b:Source>
+        <b:Year>2023</b:Year>
+        <b:BIBTEX_Entry>misc</b:BIBTEX_Entry>
+        <b:SourceType>Misc</b:SourceType>
+        <b:Title>How Musk’s X Is Failing To Stem the Surge of Misinformation About Israel and Gaza</b:Title>
+        <b:Tag>Alba2023</b:Tag>
+        <b:BIBTEX_HowPublished>\url{https://www.bloomberg.com/graphics/2023-israel-hamas-war-misinformation-twitter-community-notes/}</b:BIBTEX_HowPublished>
+        <b:URL>https://www.bloomberg.com/graphics/2023-israel-hamas-war-misinformation-twitter-community-notes/</b:URL>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Alba</b:Last>
+                        <b:First>Davey</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Lu</b:Last>
+                        <b:First>Denise</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Yin</b:Last>
+                        <b:First>Leon</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Fan</b:Last>
+                        <b:First>Eric</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:PublicationTitle>How Musk’s X Is Failing To Stem the Surge of Misinformation About Israel and Gaza</b:PublicationTitle>
+    </b:Source>
+    <b:Source>
+        <b:Year>2023</b:Year>
+        <b:Volume>103</b:Volume>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Öffentlich-rechtlicher Rundfunk unter Druck</b:Title>
+        <b:Publisher>Walter de Gruyter GmbH</b:Publisher>
+        <b:Tag>Beck2023</b:Tag>
+        <b:DOI>10.2478/wd-2023-0117</b:DOI>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Beck</b:Last>
+                        <b:First>Hanno</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Prinz</b:Last>
+                        <b:First>Aloys</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>400–405</b:Pages>
+        <b:Month>June</b:Month>
+        <b:JournalName>Wirtschaftsdienst</b:JournalName>
+        <b:Number>6</b:Number>
+        <b:StandardNumber> ISSN: 1613-978X</b:StandardNumber>
+    </b:Source>
+    <b:Source>
+        <b:Year>2009</b:Year>
+        <b:BIBTEX_Entry>misc</b:BIBTEX_Entry>
+        <b:SourceType>Misc</b:SourceType>
+        <b:Title>"Das ZDF gehört nicht der CDU"</b:Title>
+        <b:Tag>Doerting2009</b:Tag>
+        <b:BIBTEX_HowPublished>\url{https://www.spiegel.de/kultur/gesellschaft/mobbingvorwurf-gegen-roland-koch-das-zdf-gehoert-nicht-der-cdu-a-610051.html}</b:BIBTEX_HowPublished>
+        <b:URL>https://www.spiegel.de/kultur/gesellschaft/mobbingvorwurf-gegen-roland-koch-das-zdf-gehoert-nicht-der-cdu-a-610051.html</b:URL>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Dörting</b:Last>
+                        <b:First>Thorsten</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Month>February</b:Month>
+        <b:PublicationTitle>"Das ZDF gehört nicht der CDU"</b:PublicationTitle>
+    </b:Source>
+    <b:Source>
+        <b:Year>2010</b:Year>
+        <b:BIBTEX_Entry>misc</b:BIBTEX_Entry>
+        <b:SourceType>Misc</b:SourceType>
+        <b:Title>„Es war ein klares Machtexempel“</b:Title>
+        <b:Tag>GespraechmitDirkOliverHeckmann2010</b:Tag>
+        <b:BIBTEX_HowPublished>\url{https://www.deutschlandfunk.de/es-war-ein-klares-machtexempel-100.html}</b:BIBTEX_HowPublished>
+        <b:URL>https://www.deutschlandfunk.de/es-war-ein-klares-machtexempel-100.html</b:URL>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>im Gespräch mit Dirk-Oliver Heckmann</b:Last>
+                        <b:Middle>Kammann</b:Middle>
+                        <b:First>Uwe</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Month>April</b:Month>
+        <b:PublicationTitle>„Es war ein klares Machtexempel“</b:PublicationTitle>
+    </b:Source>
+    <b:Source>
+        <b:Year>2023</b:Year>
+        <b:BIBTEX_Entry>misc</b:BIBTEX_Entry>
+        <b:SourceType>Misc</b:SourceType>
+        <b:Title>Why Community Notes mostly fails to combat misinformation</b:Title>
+        <b:Tag>Czopek2023</b:Tag>
+        <b:BIBTEX_HowPublished>\url{https://www.poynter.org/fact-checking/2023/why-twitters-community-notes-feature-mostly-fails-to-combat-misinformation/}</b:BIBTEX_HowPublished>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Czopek</b:Last>
+                        <b:First>Madison</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:PublicationTitle>Why Community Notes mostly fails to combat misinformation</b:PublicationTitle>
+    </b:Source>
+    <b:Source>
+        <b:Year>2021</b:Year>
+        <b:Volume>22</b:Volume>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>How Do Public Service Media Innovate? An Analysis of Product Development by European PSM</b:Title>
+        <b:Publisher>Informa UK Limited</b:Publisher>
+        <b:Tag>Sehl2021</b:Tag>
+        <b:DOI>10.1080/1461670x.2021.1937675</b:DOI>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Sehl</b:Last>
+                        <b:First>Annika</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Cornia</b:Last>
+                        <b:First>Alessio</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>1469–1486</b:Pages>
+        <b:Month>August</b:Month>
+        <b:JournalName>Journalism Studies</b:JournalName>
+        <b:Number>11</b:Number>
+        <b:StandardNumber> ISSN: 1469-9699</b:StandardNumber>
+    </b:Source>
+    <b:Source>
+        <b:Year>2023</b:Year>
+        <b:BIBTEX_Entry>misc</b:BIBTEX_Entry>
+        <b:SourceType>Misc</b:SourceType>
+        <b:Title>Zeit zum Reden</b:Title>
+        <b:Tag>Schirmer2023</b:Tag>
+        <b:BIBTEX_HowPublished>\url{https://www.zeit.de/2023/36/politische-talkshows-vielfalt-ard-zdf-kritik}</b:BIBTEX_HowPublished>
+        <b:URL>https://www.zeit.de/2023/36/politische-talkshows-vielfalt-ard-zdf-kritik</b:URL>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Schirmer</b:Last>
+                        <b:First>Stefan</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Month>August</b:Month>
+        <b:PublicationTitle>Zeit zum Reden</b:PublicationTitle>
+    </b:Source>
+    <b:Source>
+        <b:Year>2020</b:Year>
+        <b:BIBTEX_Entry>misc</b:BIBTEX_Entry>
+        <b:SourceType>Misc</b:SourceType>
+        <b:Title>Öffentlich-rechtlicher Rundfunk: von der Gründung der ARD bis heute</b:Title>
+        <b:Tag>KurzundKnappRedaktion2020</b:Tag>
+        <b:BIBTEX_HowPublished>\url{https://www.bpb.de/kurz-knapp/hintergrund-aktuell/311191/oeffentlich-rechtlicher-rundfunk-von-der-gruendung-der-ard-bis-heute/}</b:BIBTEX_HowPublished>
+        <b:URL>https://www.bpb.de/kurz-knapp/hintergrund-aktuell/311191/oeffentlich-rechtlicher-rundfunk-von-der-gruendung-der-ard-bis-heute/</b:URL>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>KurzundKnappRedaktion</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:PublicationTitle>Öffentlich-rechtlicher Rundfunk: von der Gründung der ARD bis heute</b:PublicationTitle>
+    </b:Source>
+    <b:Source>
+        <b:BIBTEX_Entry>misc</b:BIBTEX_Entry>
+        <b:SourceType>Misc</b:SourceType>
+        <b:Title>Lexikon</b:Title>
+        <b:Tag>Bundesinnenministerium</b:Tag>
+        <b:BIBTEX_HowPublished>\url{https://www.bmi.bund.de/DE/service/lexikon/functions/bmi-lexikon.html?lv2=9391106&amp;lv3=9398092}</b:BIBTEX_HowPublished>
+        <b:URL>https://www.bmi.bund.de/DE/service/lexikon/functions/bmi-lexikon.html?lv2=9391106&amp;lv3=9398092</b:URL>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Bundesinnenministerium</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:PublicationTitle>Lexikon</b:PublicationTitle>
+    </b:Source>
+    <b:Source>
+        <b:Year>2022</b:Year>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Welche Gesellschaftsoll das abbilden?</b:Title>
+        <b:Tag>Goldmann2022a</b:Tag>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Goldmann</b:Last>
+                        <b:First>Fabian</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+    </b:Source>
+    <b:Source>
+        <b:Year>2009</b:Year>
+        <b:BIBTEX_Entry>booklet</b:BIBTEX_Entry>
+        <b:SourceType>BookSection</b:SourceType>
+        <b:Title>Aus Politik und Zeitgeschichte Öffentlich-rechtlicher Rundfunk " Integration als Programmauftrag"</b:Title>
+        <b:Tag>Lilienthal2009</b:Tag>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Lilienthal</b:Last>
+                        <b:First>Volker</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Month>February</b:Month>
+    </b:Source>
+    <b:Source>
+        <b:Year>2022</b:Year>
+        <b:BIBTEX_Entry>misc</b:BIBTEX_Entry>
+        <b:SourceType>Misc</b:SourceType>
+        <b:Title>Gemeinwohlorientierung</b:Title>
+        <b:Tag>Hufer2022</b:Tag>
+        <b:BIBTEX_HowPublished>\url{https://profession-politischebildung.de/grundlagen/grundbegriffe/gemeinwohlorientierung}</b:BIBTEX_HowPublished>
+        <b:URL>https://profession-politischebildung.de/grundlagen/grundbegriffe/gemeinwohlorientierung/</b:URL>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Hufer</b:Last>
+                        <b:Middle>Dr. Klaus-Peter</b:Middle>
+                        <b:First>Prof.</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Month>July</b:Month>
+        <b:PublicationTitle>Gemeinwohlorientierung</b:PublicationTitle>
+    </b:Source>
+    <b:Source>
+        <b:Year>2022</b:Year>
+        <b:BIBTEX_Entry>misc</b:BIBTEX_Entry>
+        <b:SourceType>Misc</b:SourceType>
+        <b:Title>Öffentlich-rechtliche Medien: Grundpfeiler einer demokratischen Gesellschaft</b:Title>
+        <b:Tag>FriedrichEbertStiftung2022</b:Tag>
+        <b:BIBTEX_HowPublished>\url{https://www.fes.de/geschichte/veranstaltungen/oeffentlich-rechtlicher-rundfunk}</b:BIBTEX_HowPublished>
+        <b:URL>https://www.fes.de/geschichte/veranstaltungen/oeffentlich-rechtlicher-rundfunk</b:URL>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Stiftung</b:Last>
+                        <b:Middle>Ebert</b:Middle>
+                        <b:First>Friedrich</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:PublicationTitle>Öffentlich-rechtliche Medien: Grundpfeiler einer demokratischen Gesellschaft</b:PublicationTitle>
+    </b:Source>
+    <b:Source>
+        <b:Year>2024</b:Year>
+        <b:BIBTEX_Entry>inbook</b:BIBTEX_Entry>
+        <b:SourceType>BookSection</b:SourceType>
+        <b:Title>Förderung der digitalen Transformation des Journalismus: Zur gescheiterten Bundespresseförderung sowie geeigneteren Wegen der öffentlichen Unterstützung von Innovationen im Journalismus</b:Title>
+        <b:Tag>Buschow2024</b:Tag>
+        <b:Publisher>Springer Fachmedien Wiesbaden</b:Publisher>
+        <b:BookTitle>Innovationen im Journalismus:</b:BookTitle>
+        <b:DOI>10.1007/978-3-658-45321-3_13</b:DOI>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Buschow</b:Last>
+                        <b:First>Christopher</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Wellbrock</b:Last>
+                        <b:First>Christian-Mathias</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>185–199</b:Pages>
+        <b:StandardNumber> ISBN: 9783658453213</b:StandardNumber>
+        <b:ConferenceName>Innovationen im Journalismus:</b:ConferenceName>
+    </b:Source>
+    <b:Source>
+        <b:LCID>1033</b:LCID>
+        <b:Year>2021</b:Year>
+        <b:BIBTEX_Copyright>Creative Commons Attribution 4.0 International</b:BIBTEX_Copyright>
+        <b:Volume>59</b:Volume>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Kommunikation in Krisen</b:Title>
+        <b:Publisher>SSOAR - GESIS Leibniz Institute for the Social Sciences</b:Publisher>
+        <b:Tag>Broer2021</b:Tag>
+        <b:BIBTEX_KeyWords>10801 Basic Research, General Concepts and History of the Science of Communication, crisis communication, epidemic, action orientation, perception, social actor, communicative action</b:BIBTEX_KeyWords>
+        <b:DOI>10.21241/SSOAR.74139</b:DOI>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Broer</b:Last>
+                        <b:First>Irene</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Hasebrink</b:Last>
+                        <b:First>Uwe</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Lampert</b:Last>
+                        <b:First>Claudia</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Schröder</b:Last>
+                        <b:First>Hermann-Dieter</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Wagner</b:Last>
+                        <b:First>Hans-Ulrich</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Endreß</b:Last>
+                        <b:First>Corinna</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>50 S.</b:Pages>
+        <b:JournalName>Arbeitspapiere des Hans-Bredow-Instituts</b:JournalName>
+    </b:Source>
+    <b:Source>
+        <b:Year>2022</b:Year>
+        <b:BIBTEX_Entry>misc</b:BIBTEX_Entry>
+        <b:SourceType>Misc</b:SourceType>
+        <b:Title>Verlage vs. Öffentlich-Rechtliche - Der lange Streit um die Presseähnlichkeit</b:Title>
+        <b:Tag>StefanFries2022</b:Tag>
+        <b:BIBTEX_HowPublished>\url{https://www.deutschlandfunk.de/streit-um-presseaehnlichkeit-100.html}</b:BIBTEX_HowPublished>
+        <b:URL>https://www.deutschlandfunk.de/streit-um-presseaehnlichkeit-100.html</b:URL>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Stefan Fries</b:Last>
+                        <b:Middle>Behme</b:Middle>
+                        <b:First>Pia</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Month>September</b:Month>
+        <b:PublicationTitle>Verlage vs. Öffentlich-Rechtliche - Der lange Streit um die Presseähnlichkeit</b:PublicationTitle>
+    </b:Source>
+    <b:Source>
+        <b:Year>2020</b:Year>
+        <b:Volume>8</b:Volume>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Public Service Media in a Digital Media Environment: Performance from an Audience Perspective</b:Title>
+        <b:Publisher>Cogitatio</b:Publisher>
+        <b:Tag>Sehl2020</b:Tag>
+        <b:DOI>10.17645/mac.v8i3.3141</b:DOI>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Sehl</b:Last>
+                        <b:First>Annika</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>359–372</b:Pages>
+        <b:Month>August</b:Month>
+        <b:JournalName>Media and Communication</b:JournalName>
+        <b:Number>3</b:Number>
+        <b:StandardNumber> ISSN: 2183-2439</b:StandardNumber>
+    </b:Source>
+    <b:Source>
+        <b:Year>2023</b:Year>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>ARD/ZDF-Massenkommunikation Trends 2023:Mediennutzung im Intermediavergleich</b:Title>
+        <b:Tag>Mueller2023</b:Tag>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Müller</b:Last>
+                        <b:Middle>Kupferschmitt/ Thorsten</b:Middle>
+                        <b:First>Thomas</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:JournalName>Media Perspektiven</b:JournalName>
+    </b:Source>
+    <b:Source>
+        <b:Year>2022</b:Year>
+        <b:BIBTEX_Series>CIKM ’22</b:BIBTEX_Series>
+        <b:BIBTEX_Entry>inproceedings</b:BIBTEX_Entry>
+        <b:SourceType>ConferenceProceedings</b:SourceType>
+        <b:Title>Crowdsourced Fact-Checking at Twitter: How Does the Crowd Compare With Experts?</b:Title>
+        <b:Publisher>ACM</b:Publisher>
+        <b:Tag>Saeed2022</b:Tag>
+        <b:BookTitle>Proceedings of the 31st ACM International Conference on Information &amp;amp; Knowledge Management</b:BookTitle>
+        <b:DOI>10.1145/3511808.3557279</b:DOI>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Saeed</b:Last>
+                        <b:First>Mohammed</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Traub</b:Last>
+                        <b:First>Nicolas</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Nicolas</b:Last>
+                        <b:First>Maelle</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Demartini</b:Last>
+                        <b:First>Gianluca</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Papotti</b:Last>
+                        <b:First>Paolo</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>1736–1746</b:Pages>
+        <b:Month>October</b:Month>
+        <b:ConferenceName>Proceedings of the 31st ACM International Conference on Information &amp;amp; Knowledge Management</b:ConferenceName>
+    </b:Source>
+    <b:Source>
+        <b:Year>2024</b:Year>
+        <b:BIBTEX_Copyright>Creative Commons Attribution 4.0 International</b:BIBTEX_Copyright>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Collaboratively adding context to social media posts reduces the sharing of false news</b:Title>
+        <b:Publisher>arXiv</b:Publisher>
+        <b:Tag>Renault2024</b:Tag>
+        <b:BIBTEX_Abstract>We build a novel database of around 285,000 notes from the Twitter Community Notes program to analyze the causal influence of appending contextual information to potentially misleading posts on their dissemination. Employing a difference in difference design, our findings reveal that adding context below a tweet reduces the number of retweets by almost half. A significant, albeit smaller, effect is observed when focusing on the number of replies or quotes. Community Notes also increase by 80% the probability that a tweet is deleted by its creator. The post-treatment impact is substantial, but the overall effect on tweet virality is contingent upon the timing of the contextual information's publication. Our research concludes that, although crowdsourced fact-checking is effective, its current speed may not be adequate to substantially reduce the dissemination of misleading information on social media.</b:BIBTEX_Abstract>
+        <b:BIBTEX_KeyWords>General Economics (econ.GN), FOS: Economics and business</b:BIBTEX_KeyWords>
+        <b:DOI>10.48550/ARXIV.2404.02803</b:DOI>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Renault</b:Last>
+                        <b:First>Thomas</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Amariles</b:Last>
+                        <b:Middle>Restrepo</b:Middle>
+                        <b:First>David</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Troussel</b:Last>
+                        <b:First>Aurore</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Month>April</b:Month>
+    </b:Source>
+    <b:Source>
+        <b:LCID>1033</b:LCID>
+        <b:Year>2024</b:Year>
+        <b:BIBTEX_Copyright>Creative Commons Attribution 4.0 International</b:BIBTEX_Copyright>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Katalysator für neue Akteure im Journalismus: Wie die Organisationsinnovation funk journalistische Content Creator unterstützt</b:Title>
+        <b:Publisher>SSOAR - GESIS Leibniz Institute for the Social Sciences</b:Publisher>
+        <b:Tag>Cheng2024</b:Tag>
+        <b:BIBTEX_KeyWords>1080412 Media Economics, Media Technology, 1080406 Communicator Research, Journalism, 1080404 Interactive, electronic Media, journalism, digital media, public institution, media economy, social media</b:BIBTEX_KeyWords>
+        <b:DOI>10.21241/SSOAR.95692</b:DOI>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Cheng</b:Last>
+                        <b:First>Lydia</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Buschow</b:Last>
+                        <b:First>Christopher</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Suhr</b:Last>
+                        <b:First>Maike</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>S. 118–129</b:Pages>
+        <b:JournalName>Proceedings zur Jahrestagung der Fachgruppe Medienökonomie der DGPuK im Oktober 2023 in Stuttgart</b:JournalName>
+    </b:Source>
+    <b:Source>
+        <b:Year>2025</b:Year>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>MP 06/2025: Der Bildungsauftrag des ZDF aus der Sicht der Bevölkerung</b:Title>
+        <b:Tag>Hasebrink2025</b:Tag>
+        <b:BIBTEX_Abstract>Die ZDF-Bildungsstudie untersucht, inwiefern ZDF-Inhalte zur Bildung der Bevölkerung beitragen. Hierzu wurde u.a. erhoben, welche bildungsbezogenen Erwartungen die Bevölkerung an die Rundfunkanstalt hat und in welchem Maße diese als erfüllt wahrgenommen werden.</b:BIBTEX_Abstract>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Hasebrink</b:Last>
+                        <b:Middle>Schmidt/Dieter Storll/Uwe</b:Middle>
+                        <b:First>Jan-Hinrik</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+    </b:Source>
+    <b:Source>
+        <b:Year>2020</b:Year>
+        <b:Volume>35</b:Volume>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Crowding out: Is there evidence that public service media harm markets? A cross-national comparative analysis of commercial television and online news providers</b:Title>
+        <b:Publisher>SAGE Publications</b:Publisher>
+        <b:Tag>Sehl2020a</b:Tag>
+        <b:DOI>10.1177/0267323120903688</b:DOI>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Sehl</b:Last>
+                        <b:First>Annika</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Fletcher</b:Last>
+                        <b:First>Richard</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Picard</b:Last>
+                        <b:Middle>G.</b:Middle>
+                        <b:First>Robert</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>389–409</b:Pages>
+        <b:Month>February</b:Month>
+        <b:JournalName>European Journal of Communication</b:JournalName>
+        <b:Number>4</b:Number>
+        <b:StandardNumber> ISSN: 1460-3705</b:StandardNumber>
+    </b:Source>
+    <b:Source>
+        <b:Year>2024</b:Year>
+        <b:Volume>57</b:Volume>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Die Finanzierung öffentlich-rechtlicher Medien in Europa. Vor- und Nachteile im Vergleich</b:Title>
+        <b:Publisher>Nomos Verlag</b:Publisher>
+        <b:Tag>Wolleschensky2024</b:Tag>
+        <b:DOI>10.5771/0010-3497-2024-2-186</b:DOI>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Wolleschensky</b:Last>
+                        <b:First>Johanna</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Sehl</b:Last>
+                        <b:First>Annika</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>186–195</b:Pages>
+        <b:JournalName>Communicatio Socialis</b:JournalName>
+        <b:Number>2</b:Number>
+        <b:StandardNumber> ISSN: 0010-3497</b:StandardNumber>
+    </b:Source>
+    <b:Source>
+        <b:Year>2025</b:Year>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Stabiles Medienvertrauen auch in Zeiten politischer Umbrüche – Mainzer Langzeitstudie Medienvertrauen 2024</b:Title>
+        <b:URL>https://medienvertrauen.uni-mainz.de/files/2025/05/Langzeitstudie-MV-2024.pdf</b:URL>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Fawzi</b:Last>
+                        <b:First>N.</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Ziegele</b:Last>
+                        <b:First>M.</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Schultz</b:Last>
+                        <b:First>T.</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Jackob</b:Last>
+                        <b:First>N.</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Jakobs</b:Last>
+                        <b:First>I.</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Viehmann</b:Last>
+                        <b:First>C.</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Quiring</b:Last>
+                        <b:First>O.</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Schemer</b:Last>
+                        <b:First>C.</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Stegmann</b:Last>
+                        <b:First>D.</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:JournalName>Media Perspektiven, NR. 13, Mai 2025</b:JournalName>
+    </b:Source>
+    <b:Source>
+        <b:Year>2016</b:Year>
+        <b:BIBTEX_Entry>misc</b:BIBTEX_Entry>
+        <b:SourceType>Misc</b:SourceType>
+        <b:Title>Bildungsauftrag und Informationspflicht der Medien</b:Title>
+        <b:Tag>Hoffmann2016</b:Tag>
+        <b:BIBTEX_HowPublished>\url{https://www.bpb.de/themen/medien-journalismus/medienpolitik/237014/bildungsauftrag-und-informationspflicht-der-medien/#node-content-title-1}</b:BIBTEX_HowPublished>
+        <b:URL>https://www.bpb.de/themen/medien-journalismus/medienpolitik/237014/bildungsauftrag-und-informationspflicht-der-medien/#node-content-title-1</b:URL>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Hoffmann</b:Last>
+                        <b:First>Dagmar</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Month>December</b:Month>
+        <b:PublicationTitle>Bildungsauftrag und Informationspflicht der Medien</b:PublicationTitle>
+    </b:Source>
+    <b:Source>
+        <b:Year>2024</b:Year>
+        <b:BIBTEX_Entry>misc</b:BIBTEX_Entry>
+        <b:SourceType>Misc</b:SourceType>
+        <b:Title>Rundfunkrat Definition</b:Title>
+        <b:Tag>openPRRedaktion2024</b:Tag>
+        <b:BIBTEX_HowPublished>\url{https://www.openpr.de/wiki/rundfunkrat}</b:BIBTEX_HowPublished>
+        <b:URL>https://www.openpr.de/wiki/rundfunkrat</b:URL>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>openPR-Redaktion</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:PublicationTitle>Rundfunkrat Definition</b:PublicationTitle>
+    </b:Source>
+    <b:Source>
+        <b:Year>2019</b:Year>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Bevölkerungsbefragung zur Nutzung von Online-Medienangeboten</b:Title>
+        <b:Tag>Ergebnisse</b:Tag>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>PwC</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+    </b:Source>
+    <b:Source>
+        <b:Year>2025</b:Year>
+        <b:Volume>122</b:Volume>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Republicans are flagged more often than Democrats for sharing misinformation on X’s Community Notes</b:Title>
+        <b:Publisher>Proceedings of the National Academy of Sciences</b:Publisher>
+        <b:Tag>Renault2025</b:Tag>
+        <b:DOI>10.1073/pnas.2502053122</b:DOI>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Renault</b:Last>
+                        <b:First>Thomas</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Mosleh</b:Last>
+                        <b:First>Mohsen</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Rand</b:Last>
+                        <b:Middle>G.</b:Middle>
+                        <b:First>David</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Month>June</b:Month>
+        <b:JournalName>Proceedings of the National Academy of Sciences</b:JournalName>
+        <b:Number>25</b:Number>
+        <b:StandardNumber> ISSN: 1091-6490</b:StandardNumber>
+    </b:Source>
+    <b:Source>
+        <b:Year>2023</b:Year>
+        <b:BIBTEX_Entry>misc</b:BIBTEX_Entry>
+        <b:SourceType>Misc</b:SourceType>
+        <b:Title>Pressemitteilung vom 25.07.2023 - Aus der Sitzung des Senats am 25. Juli 2023</b:Title>
+        <b:Tag>Senatskanzlei2023</b:Tag>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Senatskanzlei</b:Last>
+                        <b:Middle>Bürgermeister</b:Middle>
+                        <b:First>Regierender</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Month>July</b:Month>
+        <b:PublicationTitle>Pressemitteilung vom 25.07.2023 - Aus der Sitzung des Senats am 25. Juli 2023</b:PublicationTitle>
+    </b:Source>
+    <b:Source>
+        <b:Year>2025</b:Year>
+        <b:BIBTEX_Entry>misc</b:BIBTEX_Entry>
+        <b:SourceType>Misc</b:SourceType>
+        <b:Title>Glaubwürdigkeit der Medien</b:Title>
+        <b:Tag>Dimap2025</b:Tag>
+        <b:BIBTEX_HowPublished>\url{https://presse.wdr.de/plounge/wdr/programm/2025/05/_pdf/Studie_Glaubwuerdigkeit_Medien_2025.pdf}</b:BIBTEX_HowPublished>
+        <b:BIBTEX_Abstract>Eine repräsentative Umfrage im Auftrag des Westdeutschen Rundfunks Mai 2025</b:BIBTEX_Abstract>
+        <b:URL>https://presse.wdr.de/plounge/wdr/programm/2025/05/_pdf/Studie_Glaubwuerdigkeit_Medien_2025.pdf</b:URL>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Dimap</b:Last>
+                        <b:First>Infratest</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:PublicationTitle>Glaubwürdigkeit der Medien</b:PublicationTitle>
+    </b:Source>
+    <b:Source>
+        <b:Year>2013</b:Year>
+        <b:BIBTEX_Entry>book</b:BIBTEX_Entry>
+        <b:SourceType>Book</b:SourceType>
+        <b:Title>Partizipativer Journalismus in Tageszeitungen</b:Title>
+        <b:Tag>Sehl2013</b:Tag>
+        <b:Publisher>Nomos</b:Publisher>
+        <b:DOI>10.5771/9783845243061</b:DOI>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Sehl</b:Last>
+                        <b:First>Annika</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:StandardNumber> ISBN: 9783845243061</b:StandardNumber>
+    </b:Source>
+    <b:Source>
+        <b:Year>2023</b:Year>
+        <b:Volume>4</b:Volume>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>News Personalization and Public Service Media: The Audience Perspective in Three European Countries</b:Title>
+        <b:Publisher>MDPI AG</b:Publisher>
+        <b:Tag>Sehl2023a</b:Tag>
+        <b:DOI>10.3390/journalmedia4010022</b:DOI>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Sehl</b:Last>
+                        <b:First>Annika</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Eder</b:Last>
+                        <b:First>Maximilian</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>322–338</b:Pages>
+        <b:Month>February</b:Month>
+        <b:JournalName>Journalism and Media</b:JournalName>
+        <b:Number>1</b:Number>
+        <b:StandardNumber> ISSN: 2673-5172</b:StandardNumber>
+    </b:Source>
+    <b:Source>
+        <b:Year>2023</b:Year>
+        <b:Volume>38</b:Volume>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Public service media and public funding: A three-country study of willingness to pay versus perceived dispensability</b:Title>
+        <b:Publisher>SAGE Publications</b:Publisher>
+        <b:Tag>Sehl2023b</b:Tag>
+        <b:DOI>10.1177/02673231231151246</b:DOI>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Sehl</b:Last>
+                        <b:First>Annika</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>608–624</b:Pages>
+        <b:Month>January</b:Month>
+        <b:JournalName>European Journal of Communication</b:JournalName>
+        <b:Number>6</b:Number>
+        <b:StandardNumber> ISSN: 1460-3705</b:StandardNumber>
+    </b:Source>
+    <b:Source>
+        <b:Year>2024</b:Year>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Verbinden oder spalten? Was Medien leisten (sollten)</b:Title>
+        <b:Tag>IreneBroer2024</b:Tag>
+        <b:Publisher>Zusammenhalt begreifen.</b:Publisher>
+        <b:DOI>10.58079/W5GD</b:DOI>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Irene Broer</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+    </b:Source>
+    <b:Source>
+        <b:Year>2024</b:Year>
+        <b:BIBTEX_Entry>misc</b:BIBTEX_Entry>
+        <b:SourceType>Misc</b:SourceType>
+        <b:Title>Wie die Deutschen ticken: Nur jeder Dritte unter 30 vertraut ARD und ZDF</b:Title>
+        <b:Tag>Binkert2024</b:Tag>
+        <b:BIBTEX_HowPublished>\url{https://www.theeuropean.de/wissenschaft/umfrage-nur-jeder-dritte-unter-30-vertraut-ard-und-zdf}</b:BIBTEX_HowPublished>
+        <b:URL>https://www.theeuropean.de/wissenschaft/umfrage-nur-jeder-dritte-unter-30-vertraut-ard-und-zdf</b:URL>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Binkert</b:Last>
+                        <b:First>Hermann</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:PublicationTitle>Wie die Deutschen ticken: Nur jeder Dritte unter 30 vertraut ARD und ZDF</b:PublicationTitle>
+    </b:Source>
+    <b:Source>
+        <b:Year>2024</b:Year>
+        <b:BIBTEX_Entry>misc</b:BIBTEX_Entry>
+        <b:SourceType>Misc</b:SourceType>
+        <b:Title>Kulturelle Vielfalt im öffentlich-rechtlichen Rundfunk stärken statt einschränken!</b:Title>
+        <b:Tag>Kulturrat2024</b:Tag>
+        <b:BIBTEX_HowPublished>\url{https://www.kulturrat.de/positionen/kulturelle-vielfalt-im-oeffentlich-rechtlichen-rundfunk-staerken-statt-einschraenken/}</b:BIBTEX_HowPublished>
+        <b:URL>https://www.kulturrat.de/positionen/kulturelle-vielfalt-im-oeffentlich-rechtlichen-rundfunk-staerken-statt-einschraenken/</b:URL>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Kulturrat</b:Last>
+                        <b:First>Deutscher</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Month>October</b:Month>
+        <b:PublicationTitle>Kulturelle Vielfalt im öffentlich-rechtlichen Rundfunk stärken statt einschränken!</b:PublicationTitle>
+    </b:Source>
+    <b:Source>
+        <b:Year>2024</b:Year>
+        <b:Volume>25</b:Volume>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Digital histories of news in Europe: An introduction</b:Title>
+        <b:Publisher>SAGE Publications</b:Publisher>
+        <b:Tag>Anderson2024</b:Tag>
+        <b:DOI>10.1177/14648849241242609</b:DOI>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Anderson</b:Last>
+                        <b:Middle>W.</b:Middle>
+                        <b:First>C.</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Cornia</b:Last>
+                        <b:First>Alessio</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Sehl</b:Last>
+                        <b:First>Annika</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>987–995</b:Pages>
+        <b:Month>March</b:Month>
+        <b:JournalName>Journalism</b:JournalName>
+        <b:Number>5</b:Number>
+        <b:StandardNumber> ISSN: 1741-3001</b:StandardNumber>
+    </b:Source>
+    <b:Source>
+        <b:Year>2022</b:Year>
+        <b:BIBTEX_Entry>misc</b:BIBTEX_Entry>
+        <b:Comments>Gastbeitrag zum Thema "Diversität in Aufsichtsgremien"</b:Comments>
+        <b:SourceType>Misc</b:SourceType>
+        <b:Title>Wen vertreten eigentlich die Rundfunkräte von ARD und ZDF?</b:Title>
+        <b:Tag>Goldmann2022</b:Tag>
+        <b:BIBTEX_HowPublished>\url{https://uebermedien.de/74777/wen-vertreten-eigentlich-die-rundfunkraete-von-ard-und-zdf/#:~:text=Politiker,in%20Rundfunkr%C3%A4ten%20h%C3%A4ufig%20au%C3%9Fen%20vor}</b:BIBTEX_HowPublished>
+        <b:URL>https://uebermedien.de/74777/wen-vertreten-eigentlich-die-rundfunkraete-von-ard-und-zdf/#: :text=Politiker,in Rundfunkräten häufig außen vor</b:URL>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Goldmann</b:Last>
+                        <b:First>Fabian</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Month>August</b:Month>
+        <b:PublicationTitle>Wen vertreten eigentlich die Rundfunkräte von ARD und ZDF?</b:PublicationTitle>
+    </b:Source>
+    <b:Source>
+        <b:Year>2025</b:Year>
+        <b:BIBTEX_Entry>misc</b:BIBTEX_Entry>
+        <b:SourceType>Misc</b:SourceType>
+        <b:Title>Programmbeschwerde / Eingabe</b:Title>
+        <b:Tag>ZDF2025</b:Tag>
+        <b:BIBTEX_HowPublished>\url{https://www.zdf.de/unternehmen/organisation/gremien/fernsehrat/eingaben-100.html}</b:BIBTEX_HowPublished>
+        <b:URL>https://www.zdf.de/unternehmen/organisation/gremien/fernsehrat/eingaben-100.html</b:URL>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>ZDF</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:PublicationTitle>Programmbeschwerde / Eingabe</b:PublicationTitle>
+    </b:Source>
+    <b:Source>
+        <b:BIBTEX_Entry>book</b:BIBTEX_Entry>
+        <b:SourceType>Book</b:SourceType>
+        <b:Title>Welche Öffentlichkeit brauchen wir? - Zur Zukunft des Journalismus und demokratischer Medien</b:Title>
+        <b:Tag>Arlt</b:Tag>
+        <b:Publisher>Springer</b:Publisher>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Arlt</b:Last>
+                        <b:Middle>• BenediktLinden • Hans-Jürgen</b:Middle>
+                        <b:First>JuppLegrand</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:JournalName>Springer</b:JournalName>
+    </b:Source>
+    <b:Source>
+        <b:LCID>1033</b:LCID>
+        <b:Year>2025</b:Year>
+        <b:BIBTEX_Copyright>Creative Commons Attribution 4.0 International</b:BIBTEX_Copyright>
+        <b:BIBTEX_Entry>misc</b:BIBTEX_Entry>
+        <b:SourceType>Misc</b:SourceType>
+        <b:Title>Do Community Notes have a party preference?</b:Title>
+        <b:Tag>Nenno2025</b:Tag>
+        <b:Publisher>Zenodo</b:Publisher>
+        <b:BIBTEX_KeyWords>Community Notes, community notes, platform governance, platforms, fact-checking, fact-checks, Germany, politics, political parties, election, elections, German elections, data analysis</b:BIBTEX_KeyWords>
+        <b:DOI>10.5281/ZENODO.14899291</b:DOI>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Nenno</b:Last>
+                        <b:First>Sami</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:PublicationTitle>Do Community Notes have a party preference?</b:PublicationTitle>
+    </b:Source>
+    <b:Source>
+        <b:Year>2013</b:Year>
+        <b:Volume>32</b:Volume>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Why Nations Fail: The Origins of Power, Prosperity and Poverty. By Daron Acemoglu and James A. Robinson</b:Title>
+        <b:Publisher>Wiley</b:Publisher>
+        <b:Tag>Robinson2013</b:Tag>
+        <b:DOI>10.1111/dpr.12048</b:DOI>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Robinson</b:Last>
+                        <b:First>Mark</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>154–156</b:Pages>
+        <b:Month>December</b:Month>
+        <b:JournalName>Development Policy Review</b:JournalName>
+        <b:Number>1</b:Number>
+        <b:StandardNumber> ISSN: 1467-7679</b:StandardNumber>
+    </b:Source>
+    <b:Source>
+        <b:Year>2022</b:Year>
+        <b:BIBTEX_Entry>misc</b:BIBTEX_Entry>
+        <b:SourceType>Misc</b:SourceType>
+        <b:Title>BDZV-Magazin "relevant" - Dürfen die das?</b:Title>
+        <b:Tag>Lauer2022</b:Tag>
+        <b:BIBTEX_HowPublished>\url{https://www.bdzv.de/alle-themen/medienpolitik/duerfen-die-das}</b:BIBTEX_HowPublished>
+        <b:URL>https://www.bdzv.de/alle-themen/medienpolitik/duerfen-die-das</b:URL>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Lauer</b:Last>
+                        <b:First>Benedikt</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Month>February</b:Month>
+        <b:PublicationTitle>BDZV-Magazin "relevant" - Dürfen die das?</b:PublicationTitle>
+    </b:Source>
+    <b:Source>
+        <b:Year>2024</b:Year>
+        <b:Volume>3</b:Volume>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Community notes increase trust in fact-checking on social media</b:Title>
+        <b:Publisher>Oxford University Press (OUP)</b:Publisher>
+        <b:Tag>Drolsbach2024</b:Tag>
+        <b:DOI>10.1093/pnasnexus/pgae217</b:DOI>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Drolsbach</b:Last>
+                        <b:Middle>Patricia</b:Middle>
+                        <b:First>Chiara</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Solovev</b:Last>
+                        <b:First>Kirill</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Pröllochs</b:Last>
+                        <b:First>Nicolas</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+            <b:Editor>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Rand</b:Last>
+                        <b:First>David</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Editor>
+        </b:Author>
+        <b:Month>May</b:Month>
+        <b:JournalName>PNAS Nexus</b:JournalName>
+        <b:Number>7</b:Number>
+        <b:StandardNumber> ISSN: 2752-6542</b:StandardNumber>
+    </b:Source>
+    <b:Source>
+        <b:Year>2023</b:Year>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Einflussfaktoren auf die Zahlungsbereitschaft für öffentlich-rechtliche Medien</b:Title>
+        <b:Tag>Sehl2023c</b:Tag>
+        <b:DOI>doi.org/10.15358/1613-0669-2023-4-32</b:DOI>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Sehl</b:Last>
+                        <b:First>Annika</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:JournalName>MedienWirtschaft</b:JournalName>
+        <b:StandardNumber> ISSN: 1613-0669</b:StandardNumber>
+    </b:Source>
+    <b:Source>
+        <b:Year>2021</b:Year>
+        <b:Volume>12</b:Volume>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>How Do Funding Models and Organizational Legacy Shape News Organizations’ Social Media Strategies? A Comparison of Public Service and Private Sector News Media in Six Countries</b:Title>
+        <b:Publisher>Informa UK Limited</b:Publisher>
+        <b:Tag>Sehl2021a</b:Tag>
+        <b:DOI>10.1080/21670811.2021.1968920</b:DOI>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Sehl</b:Last>
+                        <b:First>Annika</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Cornia</b:Last>
+                        <b:First>Alessio</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Nielsen</b:Last>
+                        <b:Middle>Kleis</b:Middle>
+                        <b:First>Rasmus</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>1377–1396</b:Pages>
+        <b:Month>September</b:Month>
+        <b:JournalName>Digital Journalism</b:JournalName>
+        <b:Number>9</b:Number>
+        <b:StandardNumber> ISSN: 2167-082X</b:StandardNumber>
+    </b:Source>
+    <b:Source>
+        <b:Year>2010</b:Year>
+        <b:BIBTEX_Entry>misc</b:BIBTEX_Entry>
+        <b:SourceType>Misc</b:SourceType>
+        <b:Title>Televisionen - Fernsehgeschichte in West und Ost - Grundversorgung</b:Title>
+        <b:Tag>bpb2010</b:Tag>
+        <b:BIBTEX_HowPublished>\url{https://www.bpb.de/system/files/dokument_pdf/GuS_27_Grundversorgung.pdf}</b:BIBTEX_HowPublished>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>bpb</b:Last>
+                        <b:Middle>für politische Bildung</b:Middle>
+                        <b:First>Bundeszentrale</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:PublicationTitle>Televisionen - Fernsehgeschichte in West und Ost - Grundversorgung</b:PublicationTitle>
+    </b:Source>
+    <b:Source>
+        <b:Year>2024</b:Year>
+        <b:BIBTEX_Entry>misc</b:BIBTEX_Entry>
+        <b:SourceType>Misc</b:SourceType>
+        <b:Title>Drei-Stufen-Test "MDR-Telemedien"</b:Title>
+        <b:BIBTEX_HowPublished>\url{https://www.mdr.de/mdr-rundfunkrat/aufgaben/drei-stufen-test-pruefung-mdr-telemedien-102.html}</b:BIBTEX_HowPublished>
+        <b:URL>https://www.mdr.de/mdr-rundfunkrat/aufgaben/drei-stufen-test-pruefung-mdr-telemedien-102.html</b:URL>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>MDR</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Month>February</b:Month>
+        <b:PublicationTitle>Drei-Stufen-Test "MDR-Telemedien"</b:PublicationTitle>
+    </b:Source>
+    <b:Source>
+        <b:Year>2024</b:Year>
+        <b:BIBTEX_Entry>misc</b:BIBTEX_Entry>
+        <b:SourceType>Misc</b:SourceType>
+        <b:Title>Medienstaatsvertrag (früher: Rundfunkstaatsvertrag)</b:Title>
+        <b:Tag>ARD2024</b:Tag>
+        <b:BIBTEX_HowPublished>\url{https://www.ard.de/die-ard/organisation-der-ard/Rechtsgrundlagen-Medienstaatsvertrag-100}</b:BIBTEX_HowPublished>
+        <b:URL>https://www.ard.de/die-ard/organisation-der-ard/Rechtsgrundlagen-Medienstaatsvertrag-100/</b:URL>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>ARD</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Month>November</b:Month>
+        <b:PublicationTitle>Medienstaatsvertrag (früher: Rundfunkstaatsvertrag)</b:PublicationTitle>
+    </b:Source>
+    <b:Source>
+        <b:BIBTEX_Entry>misc</b:BIBTEX_Entry>
+        <b:SourceType>Misc</b:SourceType>
+        <b:Title>DIE AUFTEILUNG IHRES RUNDFUNKBEITRAGS 2022/2023</b:Title>
+        <b:Tag>ARD</b:Tag>
+        <b:BIBTEX_HowPublished>\url{https://www.ard.de/die-ard/Verwendung-des-Rundfunkbeitrags-104.pdf}</b:BIBTEX_HowPublished>
+        <b:URL>https://www.ard.de/die-ard/Verwendung-des-Rundfunkbeitrags-104.pdf</b:URL>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>ARD</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:PublicationTitle>DIE AUFTEILUNG IHRES RUNDFUNKBEITRAGS 2022/2023</b:PublicationTitle>
+    </b:Source>
+    <b:Source>
+        <b:Year>2010</b:Year>
+        <b:Volume>32</b:Volume>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>When Corrections Fail: The Persistence of Political Misperceptions</b:Title>
+        <b:Publisher>Springer Science and Business Media LLC</b:Publisher>
+        <b:Tag>Nyhan2010</b:Tag>
+        <b:DOI>10.1007/s11109-010-9112-2</b:DOI>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Nyhan</b:Last>
+                        <b:First>Brendan</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Reifler</b:Last>
+                        <b:First>Jason</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>303–330</b:Pages>
+        <b:Month>March</b:Month>
+        <b:JournalName>Political Behavior</b:JournalName>
+        <b:Number>2</b:Number>
+        <b:StandardNumber> ISSN: 1573-6687</b:StandardNumber>
+    </b:Source>
+    <b:Source>
+        <b:Year>2025</b:Year>
+        <b:Volume>105</b:Volume>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Kompetitiv und kooperativ: Zur Neuordnung des Verhältnisses von privaten und öffentlich-rechtlichen Medien im Digitalzeitalter</b:Title>
+        <b:Publisher>Walter de Gruyter GmbH</b:Publisher>
+        <b:Tag>Buschow2025</b:Tag>
+        <b:DOI>10.2478/wd-2025-0048</b:DOI>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Buschow</b:Last>
+                        <b:First>Christopher</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Dobusch</b:Last>
+                        <b:First>Leonhard</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>173–177</b:Pages>
+        <b:Month>March</b:Month>
+        <b:JournalName>Wirtschaftsdienst</b:JournalName>
+        <b:Number>3</b:Number>
+        <b:StandardNumber> ISSN: 1613-978X</b:StandardNumber>
+    </b:Source>
+    <b:Source>
+        <b:Year>2025</b:Year>
+        <b:BIBTEX_Entry>misc</b:BIBTEX_Entry>
+        <b:SourceType>Misc</b:SourceType>
+        <b:Title>Do Community Notes work?</b:Title>
+        <b:Tag>Stafford2025</b:Tag>
+        <b:BIBTEX_HowPublished>\url{https://blogs.lse.ac.uk/impactofsocialsciences/2025/01/14/do-community-notes-work/}</b:BIBTEX_HowPublished>
+        <b:URL>https://blogs.lse.ac.uk/impactofsocialsciences/2025/01/14/do-community-notes-work/</b:URL>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Stafford</b:Last>
+                        <b:First>Tom</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:PublicationTitle>Do Community Notes work?</b:PublicationTitle>
+    </b:Source>
+    <b:Source>
+        <b:Year>2022</b:Year>
+        <b:BIBTEX_Entry>misc</b:BIBTEX_Entry>
+        <b:SourceType>Misc</b:SourceType>
+        <b:Title>Mitgliederentwicklung der Parteien</b:Title>
+        <b:Tag>Niedermayer2022</b:Tag>
+        <b:BIBTEX_HowPublished>\url{https://www.bpb.de/themen/parteien/parteien-in-deutschland/zahlen-und-fakten/138672/mitgliederentwicklung-der-parteien/}</b:BIBTEX_HowPublished>
+        <b:URL>https://www.bpb.de/themen/parteien/parteien-in-deutschland/zahlen-und-fakten/138672/mitgliederentwicklung-der-parteien/</b:URL>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Niedermayer</b:Last>
+                        <b:First>Oskar</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:PublicationTitle>Mitgliederentwicklung der Parteien</b:PublicationTitle>
+    </b:Source>
+    <b:Source>
+        <b:Year>2024</b:Year>
+        <b:BIBTEX_Entry>misc</b:BIBTEX_Entry>
+        <b:SourceType>Misc</b:SourceType>
+        <b:Title>Ausgaben für Sportmoderatoren/innen und -experten/innen im Ersten</b:Title>
+        <b:Tag>ARD2024b</b:Tag>
+        <b:BIBTEX_HowPublished>\url{https://www.ard.de/die-ard/organisation-der-ard/Ausgaben-fuer-Sportexperten-100/}</b:BIBTEX_HowPublished>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>ARD</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:PublicationTitle>Ausgaben für Sportmoderatoren/innen und -experten/innen im Ersten</b:PublicationTitle>
+    </b:Source>
+    <b:Source>
+        <b:Year>2009</b:Year>
+        <b:BIBTEX_Entry>misc</b:BIBTEX_Entry>
+        <b:SourceType>Misc</b:SourceType>
+        <b:Title>Merkel will ZDF-Chefredakteur Brender loswerden</b:Title>
+        <b:Tag>Spiegel2009</b:Tag>
+        <b:BIBTEX_HowPublished>\url{https://www.spiegel.de/kultur/gesellschaft/oeffentlich-rechtlicher-rundfunk-merkel-will-zdf-chefredakteur-brender-loswerden-a-610424.html}</b:BIBTEX_HowPublished>
+        <b:URL>https://www.spiegel.de/kultur/gesellschaft/oeffentlich-rechtlicher-rundfunk-merkel-will-zdf-chefredakteur-brender-loswerden-a-610424.html</b:URL>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Spiegel</b:Last>
+                        <b:First>Der</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Month>February</b:Month>
+        <b:PublicationTitle>Merkel will ZDF-Chefredakteur Brender loswerden</b:PublicationTitle>
+    </b:Source>
+    <b:Source>
+        <b:Year>2020</b:Year>
+        <b:BIBTEX_Entry>misc</b:BIBTEX_Entry>
+        <b:SourceType>Misc</b:SourceType>
+        <b:Title>‘Fake news’: A guide to Trump’s favourite phrase – and the dangers it obscures</b:Title>
+        <b:Tag>Woodward2020</b:Tag>
+        <b:BIBTEX_HowPublished>\url{https://www.independent.co.uk/news/world/americas/us-election/trump-fake-news-counter-history-b732873.html}</b:BIBTEX_HowPublished>
+        <b:URL>https://www.independent.co.uk/news/world/americas/us-election/trump-fake-news-counter-history-b732873.html</b:URL>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Woodward</b:Last>
+                        <b:First>Alex</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Month>October</b:Month>
+        <b:PublicationTitle>‘Fake news’: A guide to Trump’s favourite phrase – and the dangers it obscures</b:PublicationTitle>
+    </b:Source>
+    <b:Source>
+        <b:Year>2025</b:Year>
+        <b:BIBTEX_Entry>inproceedings</b:BIBTEX_Entry>
+        <b:SourceType>ConferenceProceedings</b:SourceType>
+        <b:Title>Stabiles Medienvertrauen auch in Zeiten politiScher uMbrüche</b:Title>
+        <b:Tag>Brandenburg2025</b:Tag>
+        <b:BIBTEX_Abstract>Mainzer langzeitstudie Medienvertrauen 2024 von nayla Fawzi*, Marc Ziegele**, tanjev Schultz*, nikolaus Jackob*, ilka Jakobs*, christina viehmann***, oliver Quiring*, christian Schemer* und daniel Stegmann* Das Jahr 2024 war in vielerlei Hinsicht von Krisen und politischen Umbrüchen geprägt-Entwicklungen, die auch das Vertrauen in etablierte Medien beeinflussen können. Bereits in den vergangenen Jahren zeigte sich, dass medienvermittelte Deutungen gesellschaftlicher Konflikte umkämpft sind, insbesondere in Zeiten geopolitischer Krisen und innenpolitischer Polarisierung. 1 Im Verlauf des Jahres 2024 setzten sich internationale und nationale Konflikte fort, was weiteren Druck auf existierende gesellschaftliche Spannungen ausübte. Der Angriffskrieg Russlands gegen die Ukraine ging in sein drittes Jahr, und der Krieg im Gazastreifen wurde erbittert weitergeführt. Beide Konflikte spielten sich nicht nur in den jeweiligen Ländern ab, sondern auch in der internationalen, medialen Öffentlichkeit. Über Soziale Medien verbreiteten die Kriegs parteien eigene Narrative und Deutungen, die zum Teil bewusst etablierten Medienberichten widersprachen oder diese diskreditierten. 2 Doch nicht nur die geopolitische Lage war von Unruhen geprägt. Das Jahr 2024 brachte auch tiefgreifende politische Veränderungen mit sich, die für das Medienvertrauen in Deutschland potenziell von Bedeutung sind: In den USA</b:BIBTEX_Abstract>
+        <b:BIBTEX_KeyWords>Medienvertrauen, Mediennutzung, Langzeitstudie, Ã¶ffentlich-rechtliches Fernsehen, Krise, Medienzynismus, Diskurs, Medienvergleich, Soziale Medien, Boulevardmedien, privates Fernsehen, Tagespresse, Onlinemedien</b:BIBTEX_KeyWords>
+        <b:DOI>.org/10.22610/imbr.</b:DOI>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Brandenburg</b:Last>
+                        <b:First>Vgl</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Mahdhaoui</b:Last>
+                        <b:First>Noura</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+    </b:Source>
+    <b:Source>
+        <b:Year>2022</b:Year>
+        <b:Volume>4</b:Volume>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>“Spotify for News”? User Perception of Subscription-Based Content Platforms for News Media</b:Title>
+        <b:Publisher>MDPI AG</b:Publisher>
+        <b:Tag>Buschow2022</b:Tag>
+        <b:DOI>10.3390/journalmedia4010001</b:DOI>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Buschow</b:Last>
+                        <b:First>Christopher</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Wellbrock</b:Last>
+                        <b:First>Christian-Mathias</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>1–15</b:Pages>
+        <b:Month>December</b:Month>
+        <b:JournalName>Journalism and Media</b:JournalName>
+        <b:Number>1</b:Number>
+        <b:StandardNumber> ISSN: 2673-5172</b:StandardNumber>
+    </b:Source>
+    <b:Source>
+        <b:Year>2019</b:Year>
+        <b:BIBTEX_Entry>misc</b:BIBTEX_Entry>
+        <b:SourceType>Misc</b:SourceType>
+        <b:Title>Warum deutsche Talkshows den Rechten nutzen</b:Title>
+        <b:Tag>Emcke2019</b:Tag>
+        <b:BIBTEX_HowPublished>\url{https://www.sueddeutsche.de/medien/emcke-fernsehen-talkshows-rechtspopulismus-1.4512286}</b:BIBTEX_HowPublished>
+        <b:URL>https://www.sueddeutsche.de/medien/emcke-fernsehen-talkshows-rechtspopulismus-1.4512286</b:URL>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Emcke</b:Last>
+                        <b:First>Carolin</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Month>July</b:Month>
+        <b:PublicationTitle>Warum deutsche Talkshows den Rechten nutzen</b:PublicationTitle>
+    </b:Source>
+    <b:Source>
+        <b:Year>2024</b:Year>
+        <b:BIBTEX_Entry>misc</b:BIBTEX_Entry>
+        <b:SourceType>Misc</b:SourceType>
+        <b:Title>Immer noch viel Politik in den ZDF-Aufsichtsgremien</b:Title>
+        <b:Tag>Sterz2024</b:Tag>
+        <b:BIBTEX_HowPublished>\url{https://www.deutschlandfunk.de/zdf-fernsehrat-staatsfern-politik-100.html#:~:text=Schaut%20man%20sich%20die%20aktuelle,eine%20Person%2C%20die%20sie%20vertritt}</b:BIBTEX_HowPublished>
+        <b:URL>https://www.deutschlandfunk.de/zdf-fernsehrat-staatsfern-politik-100.html#: :text=Schaut man sich die aktuelle,eine Person, die sie vertritt</b:URL>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Sterz</b:Last>
+                        <b:First>Christoph</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Month>March</b:Month>
+        <b:PublicationTitle>Immer noch viel Politik in den ZDF-Aufsichtsgremien</b:PublicationTitle>
+    </b:Source>
+    <b:Source>
+        <b:Year>2009</b:Year>
+        <b:BIBTEX_Copyright>Terms of German Copyright Law</b:BIBTEX_Copyright>
+        <b:BIBTEX_Entry>misc</b:BIBTEX_Entry>
+        <b:SourceType>Misc</b:SourceType>
+        <b:Title>Spannungsfeld Auftrag – Konvergenz</b:Title>
+        <b:Tag>Fluegge2009</b:Tag>
+        <b:Publisher>Universitätsverlag der TU Berlin</b:Publisher>
+        <b:BIBTEX_KeyWords>100 Philosophie und Psychologie, ARD, Legitimation, Öffentlich-rechtlicher Rundfunk, Public Value, ZDF</b:BIBTEX_KeyWords>
+        <b:DOI>10.14279/DEPOSITONCE-2225</b:DOI>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Flügge</b:Last>
+                        <b:First>Maximilian</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:PublicationTitle>Spannungsfeld Auftrag – Konvergenz</b:PublicationTitle>
+    </b:Source>
+    <b:Source>
+        <b:Year>2015</b:Year>
+        <b:BIBTEX_Entry>misc</b:BIBTEX_Entry>
+        <b:SourceType>Misc</b:SourceType>
+        <b:Title>Der Spiegel "Lügenpresse" ist Unwort des Jahres</b:Title>
+        <b:Tag>Spiegel2015</b:Tag>
+        <b:BIBTEX_HowPublished>\url{https://www.spiegel.de/kultur/gesellschaft/luegenpresse-ist-unwort-des-jahres-a-1012678.html}</b:BIBTEX_HowPublished>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Spiegel</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:PublicationTitle>Der Spiegel "Lügenpresse" ist Unwort des Jahres</b:PublicationTitle>
+    </b:Source>
+    <b:Source>
+        <b:Year>2020</b:Year>
+        <b:BIBTEX_Entry>book</b:BIBTEX_Entry>
+        <b:SourceType>Book</b:SourceType>
+        <b:Title>Money for Nothing and Content for Free?: Paid Content, Plattformen und Zahlungsbereitschaft im digitalen Journalismus</b:Title>
+        <b:Tag>Wellbrock2020</b:Tag>
+        <b:Publisher>Nomos Verlagsgesellschaft mbH &amp; Co. KG</b:Publisher>
+        <b:DOI>10.5771/9783748907251</b:DOI>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Wellbrock</b:Last>
+                        <b:First>Christian-Mathias</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Buschow</b:Last>
+                        <b:First>Christopher</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:StandardNumber> ISBN: 9783748907251</b:StandardNumber>
+    </b:Source>
+    <b:Source>
+        <b:Year>2024</b:Year>
+        <b:BIBTEX_Entry>misc</b:BIBTEX_Entry>
+        <b:SourceType>Misc</b:SourceType>
+        <b:Title>Rechtsgrundlagen - Medienstaatsvertrag</b:Title>
+        <b:Tag>BR2024</b:Tag>
+        <b:BIBTEX_HowPublished>\url{https://www.br.de/unternehmen/inhalt/organisation/rechtsgrundlagen-gesetze-medienstaatsvertrag-100.html}</b:BIBTEX_HowPublished>
+        <b:URL>Rechtsgrundlagen Medienstaatsvertrag</b:URL>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>BR</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Month>January</b:Month>
+        <b:PublicationTitle>Rechtsgrundlagen - Medienstaatsvertrag</b:PublicationTitle>
+    </b:Source>
+    <b:Source>
+        <b:Year>2024</b:Year>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Fehlt da was? Perspektivenvielfalt in den öffentlich-rechtlichen Nachrichtenformaten</b:Title>
+        <b:Tag>Maurer2024</b:Tag>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Maurer</b:Last>
+                        <b:First>Marcus</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Kruschinski</b:Last>
+                        <b:First>Simon</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Jost</b:Last>
+                        <b:First>Pablo</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Month>January</b:Month>
+    </b:Source>
+    <b:Source>
+        <b:Year>2020</b:Year>
+        <b:BIBTEX_Entry>misc</b:BIBTEX_Entry>
+        <b:SourceType>Misc</b:SourceType>
+        <b:Title>Rundfunkrecht - Alexa, richte dich nach diesen Regeln!</b:Title>
+        <b:Tag>Frank2020</b:Tag>
+        <b:BIBTEX_HowPublished>\url{https://www.sueddeutsche.de/medien/medienstaatsvertrag-rundfunkstaatsvertrag-neu-regeln-1.5108215}</b:BIBTEX_HowPublished>
+        <b:URL>https://www.sueddeutsche.de/medien/medienstaatsvertrag-rundfunkstaatsvertrag-neu-regeln-1.5108215</b:URL>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Frank</b:Last>
+                        <b:First>Benedikt</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Month>November</b:Month>
+        <b:PublicationTitle>Rundfunkrecht - Alexa, richte dich nach diesen Regeln!</b:PublicationTitle>
+    </b:Source>
+    <b:Source>
+        <b:Year>2020</b:Year>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>DIE TALKSHOW GESELLSCHAFT</b:Title>
+        <b:Tag>Froehlich2020</b:Tag>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Paulina Fröhlich</b:Last>
+                        <b:Middle>Hillje</b:Middle>
+                        <b:First>Johannes</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:JournalName>Das Progressive Zentrum</b:JournalName>
+    </b:Source>
+    <b:Source>
+        <b:Year>2008</b:Year>
+        <b:BIBTEX_Entry>misc</b:BIBTEX_Entry>
+        <b:SourceType>Misc</b:SourceType>
+        <b:Title>Meinungsbildung in öffentlich-rechtlichen Rundfunk- undFernsehanstalten</b:Title>
+        <b:Tag>WissenschaftlicheDienste2008</b:Tag>
+        <b:BIBTEX_HowPublished>\url{https://www.bundestag.de/resource/blob/414904/a77c5d25e245b85607e35c743afafc87/wd-10-005-08-pdf-data.pdf#:~:text=direkte%20Beteili%02gung%20der%20Geb%C3%BChrenzahler%20an,Anregungen%20und%20Kritiken%20k%C3%B6nnen%20im}</b:BIBTEX_HowPublished>
+        <b:URL>https://www.bundestag.de/resource/blob/414904/a77c5d25e245b85607e35c743afafc87/wd-10-005-08-pdf-data.pdf#: :text=direkte Beteiligung der Gebührenzahler an,Anregungen und Kritiken können im</b:URL>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Wissenschaftliche Dienste</b:Last>
+                        <b:Middle>Bundestag</b:Middle>
+                        <b:First>Deutscher</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:PublicationTitle>Meinungsbildung in öffentlich-rechtlichen Rundfunk- undFernsehanstalten</b:PublicationTitle>
+    </b:Source>
+    <b:Source>
+        <b:Year>2024</b:Year>
+        <b:BIBTEX_Entry>misc</b:BIBTEX_Entry>
+        <b:SourceType>Misc</b:SourceType>
+        <b:Title>Ihre Kontaktmöglichkeiten</b:Title>
+        <b:Tag>ARD2024a</b:Tag>
+        <b:BIBTEX_HowPublished>\url{https://www.ard.de/die-ard/presse-und-kontakt/Ihre-Kontaktmoeglichkeiten-100/}</b:BIBTEX_HowPublished>
+        <b:URL>https://www.ard.de/die-ard/presse-und-kontakt/Ihre-Kontaktmoeglichkeiten-100/</b:URL>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>ARD</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:PublicationTitle>Ihre Kontaktmöglichkeiten</b:PublicationTitle>
+    </b:Source>
+    <b:Source>
+        <b:Year>2024</b:Year>
+        <b:BIBTEX_Entry>misc</b:BIBTEX_Entry>
+        <b:SourceType>Misc</b:SourceType>
+        <b:Title>Understanding Community Notes and Bridging-Based Ranking</b:Title>
+        <b:Tag>Warden2024</b:Tag>
+        <b:BIBTEX_HowPublished>\url{https://jonathanwarden.com/understanding-community-notes/}</b:BIBTEX_HowPublished>
+        <b:URL>https://jonathanwarden.com/understanding-community-notes/</b:URL>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Warden</b:Last>
+                        <b:First>Jonathan</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:PublicationTitle>Understanding Community Notes and Bridging-Based Ranking</b:PublicationTitle>
+    </b:Source>
+    <b:Source>
+        <b:LCID>1033</b:LCID>
+        <b:Year>2024</b:Year>
+        <b:BIBTEX_Copyright>Creative Commons Attribution 4.0 International</b:BIBTEX_Copyright>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Die deutsche Filmförderung - eine einzigartige Medienförderung? Möglichkeiten und Grenzen ihrer Übertragbarkeit auf den Journalismus</b:Title>
+        <b:Publisher>SSOAR - GESIS Leibniz Institute for the Social Sciences</b:Publisher>
+        <b:Tag>Pauli2024</b:Tag>
+        <b:BIBTEX_KeyWords>1080412 Media Economics, Media Technology, 1080406 Communicator Research, Journalism, Federal Republic of Germany, film, journalism, promotion, subsidy</b:BIBTEX_KeyWords>
+        <b:DOI>10.21241/SSOAR.95689</b:DOI>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Pauli</b:Last>
+                        <b:First>Barbara</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Noster</b:Last>
+                        <b:First>Anja</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Buschow</b:Last>
+                        <b:First>Christopher</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>S. 84–100</b:Pages>
+        <b:JournalName>Proceedings zur Jahrestagung der Fachgruppe Medienökonomie der DGPuK im Oktober 2023 in Stuttgart</b:JournalName>
+    </b:Source>
+    <b:Source>
+        <b:Year>2025</b:Year>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Im öffentlichen Auftrag. Zusammensetzung und Arbeitsweisen deröffentlich-rechtlichen Rundfunkgremien, OBS-Arbeitspapier 76</b:Title>
+        <b:Tag>Stawowy2025</b:Tag>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Stawowy</b:Last>
+                        <b:First>Peter</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:JournalName>Otto Brenner Stiftung</b:JournalName>
+    </b:Source>
+    <b:Source>
+        <b:Year>2020</b:Year>
+        <b:Volume>8</b:Volume>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Why Do Digital Native News Media Fail? An Investigation of Failure in the Early Start-Up Phase</b:Title>
+        <b:Publisher>Cogitatio</b:Publisher>
+        <b:Tag>Buschow2020</b:Tag>
+        <b:DOI>10.17645/mac.v8i2.2677</b:DOI>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Buschow</b:Last>
+                        <b:First>Christopher</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>51–61</b:Pages>
+        <b:Month>April</b:Month>
+        <b:JournalName>Media and Communication</b:JournalName>
+        <b:Number>2</b:Number>
+        <b:StandardNumber> ISSN: 2183-2439</b:StandardNumber>
+    </b:Source>
+    <b:Source>
+        <b:BIBTEX_Entry>misc</b:BIBTEX_Entry>
+        <b:SourceType>Misc</b:SourceType>
+        <b:Title>Organistaion - Verwaltungsrat</b:Title>
+        <b:Tag>ZDF</b:Tag>
+        <b:BIBTEX_HowPublished>\url{https://www.zdf.de/unternehmen/organisation/gremien/verwaltungsrat/uebersicht-verwaltungsrat-100.html}</b:BIBTEX_HowPublished>
+        <b:URL>https://www.zdf.de/unternehmen/organisation/gremien/verwaltungsrat/uebersicht-verwaltungsrat-100.html</b:URL>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>ZDF</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:PublicationTitle>Organistaion - Verwaltungsrat</b:PublicationTitle>
+    </b:Source>
+    <b:Source>
+        <b:Year>2024</b:Year>
+        <b:BIBTEX_Series>Gesellschaftlicher Zusammenhalt</b:BIBTEX_Series>
+        <b:BIBTEX_Entry>book</b:BIBTEX_Entry>
+        <b:SourceType>Book</b:SourceType>
+        <b:Title>Forschungsbasierter Wissenstransfer und gesellschaftlicher Zusammenhalt</b:Title>
+        <b:Publisher>Campus Verlag</b:Publisher>
+        <b:Tag>Fuecker2024</b:Tag>
+        <b:Author>
+            <b:Editor>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Fücker</b:Last>
+                        <b:First>Sonja</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Backhaus-Maul</b:Last>
+                        <b:First>Holger</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Grimmig</b:Last>
+                        <b:First>Martina</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Kamuf</b:Last>
+                        <b:First>Viktoria</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Nuske</b:Last>
+                        <b:First>Jessica</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Quent</b:Last>
+                        <b:First>Matthias</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Editor>
+        </b:Author>
+        <b:StandardNumber> ISBN: 9783593518183</b:StandardNumber>
+        <b:City>[Erscheinungsort nicht ermittelbar]</b:City>
+    </b:Source>
+    <b:Source>
+        <b:Year>2012</b:Year>
+        <b:BIBTEX_Entry>misc</b:BIBTEX_Entry>
+        <b:SourceType>Misc</b:SourceType>
+        <b:Title>Medienpolitik beim ZDF: Der Fall Brender: Schwarz schlägt Rot</b:Title>
+        <b:Tag>Huber2012</b:Tag>
+        <b:BIBTEX_HowPublished>\url{https://www.tagesspiegel.de/gesellschaft/medien/der-fall-brender-schwarz-schlagt-rot-6985288.html}</b:BIBTEX_HowPublished>
+        <b:URL>https://www.tagesspiegel.de/gesellschaft/medien/der-fall-brender-schwarz-schlagt-rot-6985288.html</b:URL>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Huber</b:Last>
+                        <b:First>Joachim</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Month>November</b:Month>
+        <b:PublicationTitle>Medienpolitik beim ZDF: Der Fall Brender: Schwarz schlägt Rot</b:PublicationTitle>
+    </b:Source>
+    <b:Source>
+        <b:Year>2024</b:Year>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Welchen Beitrag leisten deutsche öffentlich-rechtliche Medien für gesellschaftlichen Zusammenhalt? Ergebnisse einer Repräsentativbefragung</b:Title>
+        <b:Tag>Schmidt2024</b:Tag>
+        <b:BookTitle>Fast Forward. Digitale Innovation öffentlich-rechlicher Medien in Europa</b:BookTitle>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Schmidt</b:Last>
+                        <b:First>Jan-Hinrik</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:JournalName>Fast Forward. Digitale Innovation öffentlich-rechlicher Medien in Europa</b:JournalName>
+        <b:ConferenceName>Fast Forward. Digitale Innovation öffentlich-rechlicher Medien in Europa</b:ConferenceName>
+    </b:Source>
+    <b:Source>
+        <b:BIBTEX_Entry>misc</b:BIBTEX_Entry>
+        <b:SourceType>Misc</b:SourceType>
+        <b:Title>Die KEF - Aufgabe</b:Title>
+        <b:Tag>KEF</b:Tag>
+        <b:BIBTEX_HowPublished>\url{https://kef-online.de/kommission/zur-arbeit-der-kommission}</b:BIBTEX_HowPublished>
+        <b:URL>https://kef-online.de/kommission/zur-arbeit-der-kommission</b:URL>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>KEF</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:PublicationTitle>Die KEF - Aufgabe</b:PublicationTitle>
+    </b:Source>
+    <b:Source>
+        <b:Year>2008</b:Year>
+        <b:BIBTEX_Entry>misc</b:BIBTEX_Entry>
+        <b:SourceType>Misc</b:SourceType>
+        <b:Title>1 BvR 1602/07</b:Title>
+        <b:Tag>Bundesverfassungsgericht2008</b:Tag>
+        <b:BIBTEX_HowPublished>\url{https://www.bundesverfassungsgericht.de/SharedDocs/Pressemitteilungen/DE/2008/bvg08-035.html}</b:BIBTEX_HowPublished>
+        <b:URL>https://www.bundesverfassungsgericht.de/SharedDocs/Pressemitteilungen/DE/2008/bvg08-035.html</b:URL>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Bundesverfassungsgericht</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Month>February</b:Month>
+        <b:PublicationTitle>1 BvR 1602/07</b:PublicationTitle>
+    </b:Source>
+    <b:Source>
+        <b:Year>2024</b:Year>
+        <b:Volume>95</b:Volume>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Funding of Public Service Media in Germany</b:Title>
+        <b:Publisher>Wiley</b:Publisher>
+        <b:Tag>Sehl2024</b:Tag>
+        <b:DOI>10.1111/1467-923x.13370</b:DOI>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Sehl</b:Last>
+                        <b:First>Annika</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>78–85</b:Pages>
+        <b:Month>January</b:Month>
+        <b:JournalName>The Political Quarterly</b:JournalName>
+        <b:Number>1</b:Number>
+        <b:StandardNumber> ISSN: 1467-923X</b:StandardNumber>
+    </b:Source>
+    <b:Source>
+        <b:Year>2025</b:Year>
+        <b:BIBTEX_Entry>misc</b:BIBTEX_Entry>
+        <b:SourceType>Misc</b:SourceType>
+        <b:Title>Demokratiedefizit bei öffentlich-rechtlichen Sendern: Rundfunkräte unter Beschuss</b:Title>
+        <b:Tag>Rieg2025</b:Tag>
+        <b:BIBTEX_HowPublished>\url{https://www.telepolis.de/features/Demokratiedefizit-bei-oeffentlich-rechtlichen-Sendern-Rundfunkraete-unter-Beschuss-10451408.html#:~:text=Rundfunkr%C3%A4te%20sind%20ja%20gerade%20nicht,f%C3%BChlen%2C%20m%C3%BCssen%20diese%20selbst%20entscheiden}</b:BIBTEX_HowPublished>
+        <b:URL>https://www.telepolis.de/features/Demokratiedefizit-bei-oeffentlich-rechtlichen-Sendern-Rundfunkraete-unter-Beschuss-10451408.html#: :text=Rundfunkräte sind ja gerade nicht,fühlen, müssen diese selbst entscheiden</b:URL>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Rieg</b:Last>
+                        <b:First>Timo</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:PublicationTitle>Demokratiedefizit bei öffentlich-rechtlichen Sendern: Rundfunkräte unter Beschuss</b:PublicationTitle>
+    </b:Source>
+</b:Sources>
